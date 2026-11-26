@@ -1,0 +1,122 @@
+{
+ "drawing": "Modules/UNSORTED/M424/MECHANICAL/1969 - 424-03-002 - SWITCH MTG. PLATE - ISS 5.png",
+ "version": 1,
+ "trace": "_traces/245629265e33fa5a.svg",
+ "sheet": {
+  "number": "B 424-03-002",
+  "title": "SWITCH MTG. PLATE",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 8.7, 431.5, 298.2],
+ "outlines": {
+  "line": {"rings": 355, "straight": {"n": 6361, "mm": 11071.1}, "curved": {"n": 721, "mm": 999.5}},
+  "text": {"rings": 402, "straight": {"n": 3345, "mm": 3518.5}, "curved": {"n": 895, "mm": 1273.6}},
+  "tb": {"rings": 124, "straight": {"n": 1163, "mm": 1063.9}, "curved": {"n": 166, "mm": 200.0}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 7728, "straight": {"n": 7936, "mm": 7018.4}, "curved": {"n": 45, "mm": 76.6}},
+   "text": {"paths": 2179, "straight": {"n": 2973, "mm": 2481.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 649, "straight": {"n": 695, "mm": 660.8}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 87,
+  "orientation": {"horizontal": {"n": 3199, "mm": 4555.5}, "vertical": {"n": 2900, "mm": 2459.0}, "diagonal": {"n": 5505, "mm": 3146.4}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [156.7, 167.4], "r": 5.8, "kind": "arc", "span": 88, "from": ["centre line"], "start": 177},
+  {"c": [156.2, 167.4], "r": 5.1, "kind": "arc", "span": 268, "from": ["centre line"], "start": 274},
+  {"c": [114.7, 167.3], "r": 4.7, "kind": "circle", "span": 286, "from": ["centre line"]},
+  {"c": [203.7, 157.3], "r": 2.5, "kind": "arc", "span": 94, "from": ["centre line"], "start": 2},
+  {"c": [429.2, 11.0], "r": 2.2, "kind": "arc", "span": 114, "from": ["centre line"], "start": 48},
+  {"c": [229.9, 100.3], "r": 1.2, "kind": "arc", "span": 199, "from": ["centre line"], "start": 99},
+  {"c": [68.6, 203.4], "r": 1.0, "kind": "arc", "span": 200, "from": ["centre line"], "start": 59},
+  {"c": [40.0, 166.3], "r": 0.7, "kind": "arc", "span": 248, "from": ["centre line"], "start": 33}
+ ],
+ "boxes": [
+  {"mm": [229.5, 166.9, 236.8, 176.4], "w": 7.3, "h": 9.5, "from": "ring"},
+  {"mm": [229.3, 156.5, 237.0, 166.7], "w": 7.7, "h": 10.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 54,
+  "lines": [
+   {"mm": [163.0, 259.9, 171.6, 269.1], "text": "54"},
+   {"mm": [100.2, 251.5, 108.8, 257.0], "text": "813"},
+   {"mm": [170.6, 250.7, 202.5, 257.1], "text": "4.500 NT s"},
+   {"mm": [153.7, 240.9, 172.1, 247.4], "text": "3,416"},
+   {"mm": [127.4, 231.2, 143.6, 237.7], "text": "1.625"},
+   {"mm": [223.2, 211.6, 237.1, 218.1], "text": "'57 0"},
+   {"mm": [264.7, 202.5, 326.9, 208.5], "text": "2 HoLes 4.40 unC ThD"},
+   {"mm": [74.7, 200.8, 84.4, 206.3], "text": "DiA"},
+   {"mm": [222.4, 200.6, 230.4, 207.0], "text": "29"},
+   {"mm": [161.1, 197.1, 183.3, 202.6], "text": "3.950"},
+   {"mm": [181.6, 165.2, 190.9, 170.0], "text": "700"},
+   {"mm": [263.0, 163.9, 286.7, 170.3], "text": "'790 |,050"},
+   {"mm": [124.4, 135.6, 198.4, 141.5], "text": "093 DIA Csk 820 To '171 DiA"},
+   {"mm": [248.5, 137.7, 291.2, 143.3], "text": "HoLE (30 DIA;"},
+   {"mm": [226.3, 126.5, 245.9, 133.0], "text": "32 DIA"},
+   {"mm": [156.3, 121.6, 171.9, 127.1], "text": "4'750"},
+   {"mm": [116.8, 76.6, 142.7, 81.4], "text": "2 -56 Tap"},
+   {"mm": [153.1, 76.2, 163.9, 81.7], "text": "Req"},
+   {"mm": [192.4, 52.5, 242.0, 57.3], "text": "drN C,S,0 'CONNELL"},
+   {"mm": [324.1, 49.2, 367.2, 58.8], "text": "IMARD BECK"},
+   {"mm": [370.5, 49.2, 416.9, 59.5], "text": "SYSTEMS Ltd;"},
+   {"mm": [252.4, 48.6, 278.7, 53.9], "text": "120 Grit"},
+   {"mm": [191.7, 42.3, 232.3, 48.8], "text": "DATE NOV 69"},
+   {"mm": [262.3, 42.3, 310.9, 49.3], "text": "BlaCK ANoPIze"},
+   {"mm": [208.1, 30.9, 266.4, 42.9], "text": "2/s MATERIAL"},
+   {"mm": [329.9, 30.2, 420.8, 42.2], "text": "SWITCH MTG PLATE"},
+   {"mm": [191.9, 33.5, 204.2, 39.0], "text": "CHKD"},
+   {"mm": [255.4, 27.6, 270.3, 33.4], "text": "'064"},
+   {"mm": [274.2, 27.2, 293.2, 33.7], "text": "ALuM;"},
+   {"mm": [190.9, 24.4, 204.2, 29.9], "text": "SCALE"},
+   {"mm": [263.2, 17.3, 297.1, 22.8], "text": "PLACES GIVEM"},
+   {"mm": [305.5, 16.4, 318.5, 22.9], "text": "GLES"},
+   {"mm": [191.9, 15.8, 204.2, 21.3], "text": "ToLs"},
+   {"mm": [223.5, 12.1, 304.4, 19.2], "text": "MN DEND RAd UNLESS SPECIFIEN"},
+   {"mm": [339.8, 14.5, 387.8, 18.8], "text": "424 03 002"},
+   {"mm": [405.7, 14.5, 414.3, 18.8], "text": "ISS."}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [182.2, 18.2, 408.3, 65.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "drN C,S,0 'CONNELL",
+   "IMARD BECK",
+   "SYSTEMS Ltd;",
+   "120 Grit",
+   "DATE NOV 69",
+   "BlaCK ANoPIze",
+   "2/s MATERIAL",
+   "SWITCH MTG PLATE",
+   "CHKD",
+   "'064",
+   "ALuM;",
+   "SCALE",
+   "PLACES GIVEM",
+   "GLES",
+   "ToLs"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 424-03-002, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 9–298 mm up",
+  "- **Outlines:** line 355 rings, 6,361 straight (11,071 mm) / 721 curved (1,000 mm); text 402 rings, 3,345 straight (3,518 mm) / 895 curved (1,274 mm); tb 124 rings, 1,163 straight (1,064 mm) / 166 curved (200 mm)",
+  "- **Centre lines:** 10,556 paths (87 closed); straight 10,161 mm, curved 76.6 mm; horizontal 4,556 mm, vertical 2,459 mm, diagonal 3,146 mm",
+  "- **Circles and arcs:** 1 circles, 7 arcs; largest r 4.7 @ (114.7, 167.3)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 54 in 36 lines: 54 · 813 · 4.500 NT s · 3,416 · 1.625 · '57 0 · 2 HoLes 4.40 unC ThD · DiA · 29 · 3.950 · 700 · '790 |,050",
+  "- **Title block:** (182, 18)–(408, 66) mm: drN C,S,0 'CONNELL · IMARD BECK · SYSTEMS Ltd; · 120 Grit · DATE NOV 69 · BlaCK ANoPIze · 2/s MATERIAL · SWITCH MTG PLATE · CHKD · '064 · ALuM; · SCALE · PLACES GIVEM · GLES · ToLs"
+ ]
+}
