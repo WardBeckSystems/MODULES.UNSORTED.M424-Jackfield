@@ -36,7 +36,7 @@ Mechanical drawing of an escutcheon drilling detail, title block at bottom right
 - **Words (OCR):** 85 in 60 lines: 6.62 · 4,500 · 3.416 · TAP 8-32 UNC · DRicL $ · CsK 828 To · 250 LIA · 1,625 · 53 · HOLES · 1.062 · 3.350
 - **Title block:** (258, 22)–(377, 61) mm: MnaRd BECK · OR · ESCUTCHEON · Date · 30 OCT · DRILLING DETAIL · 0.0}
 
-Every curve, box, word and wire group: [1971 - 424-03-001 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).json](../MECHANICAL/1971%20-%20424-03-001%20-%20ESCUTCHEON%20DRILLING%20DETAIL%20-%20DRN%20WWH%20-%20ISS%207%20(traced).json) (the CAD file: `1971 - 424-03-001 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 424-03-001 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).json](../MECHANICAL/1971%20-%20424-03-001%20-%20ESCUTCHEON%20DRILLING%20DETAIL%20-%20DRN%20WWH%20-%20ISS%207%20%28traced%29.json) (the CAD file: `1971 - 424-03-001 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).dxf`).
 
 ## Full text
 
