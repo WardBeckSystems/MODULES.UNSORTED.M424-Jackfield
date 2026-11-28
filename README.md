@@ -1,6 +1,6 @@
 # M424 Jackfield · Unsorted
 
-Ward-Beck Systems M424, 1969|2. Wiki page: [M424 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M424.html)
+Ward-Beck Systems M424, 1969|2. Wiki page: [M424 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M424-Jackfield/)
 
 | Folder | What is in it | Files |
 |---|---|---|
